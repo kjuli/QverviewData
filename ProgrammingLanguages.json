@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Orquestra YAML",
+    "type": "Workflow Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "Python",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "Proprietary"
+  },
+  {
+    "name": "JavaScript",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "Proprietary"
+  },
+  {
+    "name": "Quipper",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Embedded",
+    "standardization": "None"
+  },
+  {
+    "name": "Q#",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "F#",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "C#",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "Proto-Quipper",
+    "type": "High-Level Programming Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "OpenQASM",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "Proprietary"
+  },
+  {
+    "name": "Quil",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "QMASM",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "Blackbird",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "BQM",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "None"
+  },
+  {
+    "name": "QWIRE",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Embedded",
+    "standardization": "None"
+  },
+  {
+    "name": "QIR",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "Proprietary"
+  },
+  {
+    "name": "AQASM",
+    "type": "Assembly Language",
+    "syntaxImplementation": "Standalone",
+    "standardization": "Proprietary"
+  }
+]

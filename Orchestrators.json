@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Orquestra",
+    "licenses": ["Closed Source"],
+    "programmingLanguages": ["Orquestra YAML"],
+    "activeDevelopment": true,
+    "productionReady": false
+  },
+  {
+    "name": "QuantMe",
+    "licenses": ["MIT"],
+    "programmingLanguages": ["BPMN"],
+    "activeDevelopment": true,
+    "productionReady": false
+  }
+]

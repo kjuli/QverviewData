@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SampleSdkLol",
+    "licenses": ["This is an unexisting license"],
+    "programmingLanguages": ["no"],
+    "supportedQuantumCloudServices": [],
+    "compilerOptimizationStrategies": ["hardware-specific"],
+    "compilerOutputLanguages": [],
+    "compilerInputLanguages": [],
+    "activeDevelopment": false,
+    "localSimulator": false
+  }
+]

@@ -1,0 +1,246 @@
+[
+  {
+    "name": "IBM Santiago",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Athens",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Valencia",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Vigo",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Melbourne",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Ourense",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Yorktown",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM Armonk",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+  {
+    "name": "IBM QASM Simulator",
+    "executionType": "Simulator",
+    "computationModel": "Circuit-Model",
+    "vendor": "IBM"
+  },
+
+
+
+
+  {
+    "name": "Xanadu X8",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Xanadu Quantum Technologies Inc."
+  },
+
+
+
+
+  {
+    "name": "N/A",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Google"
+  },
+  {
+    "name": "N/A",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Google"
+  },
+  {
+    "name": "Google Bristlecone",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Google"
+  },
+  {
+    "name": "Google Sycamore",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Google"
+  },
+
+
+
+
+
+
+  {
+    "name": "Rigetti Agave",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Acorn",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Aspen-1",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Aspen-4",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Aspen-7",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Aspen-8",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+  {
+    "name": "Rigetti Aspen-9",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Rigetti"
+  },
+
+
+
+
+
+
+
+  {
+    "name": "D-Wave One (Ranier)",
+    "executionType": "QPU",
+    "computationModel": "Annealing",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "D-Wave Two",
+    "executionType": "QPU",
+    "computationModel": "Annealing",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "D-Wave 2X",
+    "executionType": "QPU",
+    "computationModel": "Annealing",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "D-Wave 2000Q",
+    "executionType": "QPU",
+    "computationModel": "Annealing",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "D-Wave Advantage",
+    "executionType": "QPU",
+    "computationModel": "Annealing",
+    "vendor": "D-Wave"
+  },
+
+
+
+
+
+  {
+    "name": "AQT Innsbruck",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "AQT QASM Simulator",
+    "executionType": "Simulator",
+    "computationModel": "Circuit-Model",
+    "vendor": "D-Wave"
+  },
+  {
+    "name": "AQT QASM Simulator Noise",
+    "executionType": "Simulator",
+    "computationModel": "Circuit-Model",
+    "vendor": "D-Wave"
+  },
+
+
+
+
+
+
+  {
+    "name": "Honeywell",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Honeywell"
+  },
+  {
+    "name": "IonQ",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "IonQ"
+  },
+  {
+    "name": "Intel",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "Intel"
+  },
+
+
+  {
+    "name": "Spin-2",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "QuTech"
+  },
+  {
+    "name": "Starmon-5",
+    "executionType": "QPU",
+    "computationModel": "Circuit-Model",
+    "vendor": "QuTech"
+  },
+  {
+    "name": "QX Quantum Computer Simulator",
+    "executionType": "Simulator",
+    "computationModel": "Circuit-Model",
+    "vendor": "QuTech"
+  }
+]

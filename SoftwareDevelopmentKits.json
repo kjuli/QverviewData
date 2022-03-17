@@ -1,13 +1,170 @@
 [
   {
-    "name": "SampleSdkLol",
-    "licenses": ["This is an unexisting license"],
-    "programmingLanguages": ["no"],
-    "supportedQuantumCloudServices": [],
-    "compilerOptimizationStrategies": ["hardware-specific"],
-    "compilerOutputLanguages": [],
-    "compilerInputLanguages": [],
+    "name": "Qiskit",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["JavaScript", "Python"],
+    "activeDevelopment": true,
+    "localSimulator": true,
+    "supportedQuantumCloudServices": ["IBM Quantum", "AQT Cloud"],
+    "compiler": [],
+    "link": "https://qiskit.org",
+    "_references": {
+      "licenses": ["link:https://qiskit.org", "link:https://google.com"],
+      "supportedQuantumCloudServices": ["link:https://yahoo.com"]
+    },
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+  },
+  {
+    "name": "Strawberry Fields",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["Xanadu Cloud Platform"],
+    "localSimulator": true,
+    "compiler": []
+  },
+  {
+    "name": "XACC",
+    "licenses": ["Eclipse Public License", "Eclipse Distribution License"],
+    "programmingLanguages": ["C++"],
+    "activeDevelopment": true,
+    "localSimulator": true,
+    "supportedQuantumCloudServices": ["IBM Quantum", "Rigetti QCS", "D-Wave Leap"],
+    "compiler": []
+  },
+  {
+    "name": "Ocean",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "activeDevelopment": true,
+    "localSimulator": true,
+    "supportedQuantumCloudServices": ["D-Wave Leap"],
+    "compiler": []
+  },
+  {
+    "name": "Cirq",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "activeDevelopment": true,
+    "localSimulator": true,
+    "supportedQuantumCloudServices": ["Google Cloud", "AQT Cloud", "Pasqal"],
+    "compiler": []
+  },
+  {
+    "name": "Forest",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "activeDevelopment": true,
+    "localSimulator": true,
+    "supportedQuantumCloudServices": ["Rigetti QCS"],
+    "compiler": []
+  },
+  {
+    "name": "ProjectQ",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
     "activeDevelopment": false,
+    "supportedQuantumCloudServices": ["IBM Quantum", "AQT Cloud"],
+    "localSimulator": true
+  },
+  {
+    "name": "Liqui|>",
+    "licenses": ["Microsoft Research (custom)"],
+    "programmingLanguages": ["F#"],
+    "compiler": [],
+    "activeDevelopment": false,
+    "supportedQuantumCloudServices": [],
+    "localSimulator": true
+  },
+  {
+    "name": "JADE",
+    "licenses": [],
+    "programmingLanguages": ["C++"],
+    "compiler": [],
+    "activeDevelopment": false,
+    "supportedQuantumCloudServices": [],
+    "localSimulator": true
+  },
+  {
+    "name": "pytket",
+    "licenses": ["Non-commercial"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["IBM Quantum", "AQT Cloud", "AWS Braket", "Google Cloud", "Honeywell Quantum Systems", "Rigetti QCS", "Azure Quantum"],
+    "localSimulator": true
+  },
+  {
+    "name": "Pennylane",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["IBM Quantum", "AWS Braket", "Honeywell", "AQT", "Rigetti QCS", "Azure Quantum"],
+    "localSimulator": true
+  },
+  {
+    "name": "Quantum Development Kit",
+    "licenses": ["MIT"],
+    "programmingLanguages": ["Q#", "Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["Azure Quantum"],
+    "localSimulator": true
+  },
+  {
+    "name": "Quantum Inspire SDK",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["Quantum Inspire", "IBM Quantum"],
+    "localSimulator": true
+  },
+  {
+    "name": "Amazon Braket Python SDK",
+    "licenses": ["Apache 2.0"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["AWS Braket"],
+    "localSimulator": true
+  },
+  {
+    "name": "1Qbit QDK",
+    "licenses": [],
+    "programmingLanguages": [],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["1Qloud"],
+    "localSimulator": true
+  },
+  {
+    "name": "Riverlane Deltaflow",
+    "licenses": ["MIT"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": [],
+    "localSimulator": true
+  },
+  {
+    "name": "QC Ware Platform Client Library",
+    "licenses": ["All rights reserved"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["QC Ware Forge"],
     "localSimulator": false
+  },
+  {
+    "name": "MyQLM",
+    "licenses": ["Proprietary (partly)", "Apache 2.0 (partly)"],
+    "programmingLanguages": ["Python"],
+    "compiler": [],
+    "activeDevelopment": true,
+    "supportedQuantumCloudServices": ["IBM Quantum"],
+    "localSimulator": true
   }
 ]
